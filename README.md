@@ -33,7 +33,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaxVGAT&show_icons=true&theme=dracula )
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaxLGDev&show_icons=true&theme=dracula )
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxVGAT&layout=compact&theme=dracula )
 <!---
