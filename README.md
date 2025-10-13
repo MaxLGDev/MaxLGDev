@@ -8,6 +8,7 @@
 - 使用エンジン: [Unity / Unreal Engine(将来)]
 - 使用言語: [C# / C++(将来)]
 - 個人開発、プロトタイピング、ゲームジャム参加
+- Paizaラーニング: (今) - C-Rank / Rating: 1469
 
 ## 🛠 現在取り組んでいること
 
@@ -35,7 +36,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaxLGDev&show_icons=true&theme=dracula )
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxVGAT&layout=compact&theme=dracula )
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxLVDev&layout=compact&theme=dracula )
 <!---
 FlabbyRoastedDuck/FlabbyRoastedDuck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
