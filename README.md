@@ -21,14 +21,14 @@
 [ --- ゲーム --- ]
 - LaserNexus - [https://unityroom.com/games/laser_nexus] (05.2025、 チーム制作, Main Menu + InGame UI) / [https://github.com/KEITOKOGA/20250522-23gamejam.git]
   
-- EchoFall - [https://unityroom.com/games/echofall] (06.2025、個人制作) / [https://github.com/MaxVGAT/EchoFall.git]
+- EchoFall - [https://unityroom.com/games/echofall] (06.2025、個人制作) / [https://github.com/MaxLGDev/EchoFall.git]
   
-- 夢の響 (Dreamtide) - [https://unityroom.com/games/dreamtide] (09.2025、個人制作) / [https://github.com/MaxVGAT/Dreamtide.git]
+- 夢の響 (Dreamtide) - [https://unityroom.com/games/dreamtide] (09.2025、個人制作) / [https://github.com/MaxLGDev/Dreamtide.git]
   
-- Parasomnia - [休止状態] (個人製作) / [https://github.com/MaxVGAT/Parasomnia.git]
+- Parasomnia - [休止状態] (個人製作) / [https://github.com/MaxLGDev/Parasomnia.git]
 
 [ --- その他 --- ]
-- Unity Training: 30 projects (small to big) - [進行中] (個人制作) / [https://github.com/MaxVGAT/UnityTraining.git]
+- Unity Training: 30 projects (small to big) - [進行中] (個人制作) / [https://github.com/MaxLGDev/UnityTraining.git]
 
 一緒に面白いゲームを作っていきましょう！
 
