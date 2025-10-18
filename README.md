@@ -19,11 +19,11 @@
 ## 📂 主なリポジトリ / ポートフォリオ
 
 [ --- ゲーム --- ]
-- LaserNexus - [https://unityroom.com/games/laser_nexus] (05.2025、 チーム制作, Main Menu + InGame UI) / [https://github.com/KEITOKOGA/20250522-23gamejam.git]
+- LaserNexus - [https://unityroom.com/games/laser_nexus] (2025.05、 チーム制作, Main Menu + InGame UI) / [https://github.com/KEITOKOGA/20250522-23gamejam.git]
   
-- EchoFall - [https://unityroom.com/games/echofall] (06.2025、個人制作) / [https://github.com/MaxLGDev/EchoFall.git]
+- EchoFall - [https://unityroom.com/games/echofall] (2025.06、個人制作) / [https://github.com/MaxLGDev/EchoFall.git]
   
-- 夢の響 (Dreamtide) - [https://unityroom.com/games/dreamtide] (09.2025、個人制作) / [https://github.com/MaxLGDev/Dreamtide.git]
+- 夢の響 (Dreamtide) - [https://unityroom.com/games/dreamtide] (2025.09、個人制作) / [https://github.com/MaxLGDev/Dreamtide.git]
   
 - Parasomnia - [休止状態] (個人製作) / [https://github.com/MaxLGDev/Parasomnia.git]
 
