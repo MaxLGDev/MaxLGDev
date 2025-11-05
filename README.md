@@ -20,7 +20,7 @@
 
 **[ --- ゲーム --- ]**
 
-- LaserNexus - [https://unityroom.com/games/laser_nexus] / [https://github.com/KEITOKOGA/20250522-23gamejam.git]
+- LaserNexus - [https://unityroom.com/games/laser_nexus] / [https://github.com/KEITOKOGA/20250522-23gamejam.git]  
       - (2025.05、チーム制作、担当: Main Menu + InGame UI)
   
 - EchoFall - [https://unityroom.com/games/echofall] / [https://github.com/MaxLGDev/EchoFall.git]
