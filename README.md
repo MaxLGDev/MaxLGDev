@@ -23,16 +23,16 @@
 - LaserNexus - [https://unityroom.com/games/laser_nexus] / [https://github.com/KEITOKOGA/20250522-23gamejam.git]  
       - (2025.05、チーム制作、担当: Main Menu + InGame UI)
   
-- EchoFall - [https://unityroom.com/games/echofall] / [https://github.com/MaxLGDev/EchoFall.git]
+- EchoFall - [https://unityroom.com/games/echofall] / [https://github.com/MaxLGDev/EchoFall.git]  
       - (2025.06、個人制作)
   
-- 夢の響 (Dreamtide) - [https://unityroom.com/games/dreamtide] / [https://github.com/MaxLGDev/Dreamtide.git]
+- 夢の響 (Dreamtide) - [https://unityroom.com/games/dreamtide] / [https://github.com/MaxLGDev/Dreamtide.git]  
       - (2025.06、個人制作)
   
-- Parasomnia - [休止状態] / [https://github.com/MaxLGDev/Parasomnia.git]
+- Parasomnia - [休止状態] / [https://github.com/MaxLGDev/Parasomnia.git]  
       - (個人製作)
 
-- 秘密プロジェクト / 東京ゲームショウ出展予定・Steam公開予定
+- 秘密プロジェクト / 東京ゲームショウ出展予定・Steam公開予定  
       - (チーム制作・製作中、担当: Main Menu + UI/UX + プログラミング、　)
 
 
