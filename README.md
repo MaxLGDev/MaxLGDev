@@ -6,7 +6,7 @@
 
 - ゲームプログラミング
 - 使用エンジン: [Unity / Unreal Engine(将来)]
-- 使用言語: [C# / C++(将来)]
+- 使用言語: C# (現在習得中) / C++ (学習予定)
 - 個人開発、プロトタイピング、ゲームジャム参加
 - Paiza: C-Rank
 
@@ -18,17 +18,23 @@
 
 ## 📂 主なリポジトリ / ポートフォリオ
 
-[ --- ゲーム --- ]
-- LaserNexus - [https://unityroom.com/games/laser_nexus] (2025.05、 チーム制作, Main Menu + InGame UI) / [https://github.com/KEITOKOGA/20250522-23gamejam.git]
-  
-- EchoFall - [https://unityroom.com/games/echofall] (2025.06、個人制作) / [https://github.com/MaxLGDev/EchoFall.git]
-  
-- 夢の響 (Dreamtide) - [https://unityroom.com/games/dreamtide] (2025.09、個人制作) / [https://github.com/MaxLGDev/Dreamtide.git]
-  
-- Parasomnia - [休止状態] (個人製作) / [https://github.com/MaxLGDev/Parasomnia.git]
+**[ --- ゲーム --- ]**
 
-[ --- その他 --- ]
-- Unity Training: 30 projects (small to big) - [進行中] (個人制作) / [https://github.com/MaxLGDev/UnityTraining.git]
+- LaserNexus - [https://unityroom.com/games/laser_nexus] / [https://github.com/KEITOKOGA/20250522-23gamejam.git]
+      - (2025.05、チーム制作、担当: Main Menu + InGame UI)
+  
+- EchoFall - [https://unityroom.com/games/echofall] / [https://github.com/MaxLGDev/EchoFall.git]
+      - (2025.06、個人制作)
+  
+- 夢の響 (Dreamtide) - [https://unityroom.com/games/dreamtide] / [https://github.com/MaxLGDev/Dreamtide.git]
+      - (2025.06、個人制作)
+  
+- Parasomnia - [休止状態] / [https://github.com/MaxLGDev/Parasomnia.git]
+      - (個人製作)
+
+- 秘密プロジェクト / 東京ゲームショウ出展予定・Steam公開予定
+      - (チーム制作・製作中、担当: Main Menu + UI/UX + プログラミング、　)
+
 
 一緒に面白いゲームを作っていきましょう！
 
