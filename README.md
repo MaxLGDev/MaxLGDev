@@ -31,12 +31,6 @@
 
 
 一緒に面白いゲームを作っていきましょう！
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaxLGDev&show_icons=true&theme=dracula )
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxLVDev&layout=compact&theme=dracula )
 <!---
 FlabbyRoastedDuck/FlabbyRoastedDuck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
