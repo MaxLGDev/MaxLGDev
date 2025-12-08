@@ -28,12 +28,6 @@
   
 - 夢の響 (Dreamtide) - [https://unityroom.com/games/dreamtide] / [https://github.com/MaxLGDev/Dreamtide.git]  
       - (2025.06、個人制作)
-  
-- Parasomnia - [休止状態] / [https://github.com/MaxLGDev/Parasomnia.git]  
-      - (個人製作)
-
-- 秘密プロジェクト / 東京ゲームショウ出展予定・Steam公開予定  
-      - (チーム制作・製作中、担当: Main Menu + UI/UX + プログラミング)
 
 
 一緒に面白いゲームを作っていきましょう！
