@@ -28,15 +28,15 @@ I'm a student studying game development. I mainly use C# with Unity, and I work 
 **--- Games ---**
 
 - **LaserNexus** — [Play](https://unityroom.com/games/laser_nexus) / [Source](https://github.com/KEITOKOGA/20250522-23gamejam.git)
-  - May 2025, team project. Role: Main Menu + In-Game UI
+  - 2025, team project. Role: Main Menu + In-Game UI
 - **EchoFall** — [Play](https://unityroom.com/games/echofall) / [Source](https://github.com/MaxLGDev/EchoFall.git)
-  - Jun 2025, solo project
+  - 2025, solo project
 - **夢の響 (Dreamtide)** — [Play](https://unityroom.com/games/dreamtide) / [Source](https://github.com/MaxLGDev/Dreamtide.git)
-  - Jun 2025, solo project
+  - 2025, solo project
 - **NeoTempo** — [Play](https://unityroom.com/games/neotempo) / [Source](https://github.com/MaxLGDev/NeoTempo)
-  - Feb 2026, solo project
+  - 2026, solo project
 - **PochiPochiFarm** — In development / [Source](https://github.com/MaxLGDev/PochiPochiFarm)
-  - Jul 2026, solo project
+  - 2026, solo project
 
 Let's make fun games together!
 
@@ -72,15 +72,15 @@ Let's make fun games together!
 **--- ゲーム ---**
 
 - **LaserNexus** — [プレイ](https://unityroom.com/games/laser_nexus) / [ソース](https://github.com/KEITOKOGA/20250522-23gamejam.git)
-  - 2025.05、チーム制作、担当: Main Menu + InGame UI
+  - 2025、チーム制作、担当: Main Menu + InGame UI
 - **EchoFall** — [プレイ](https://unityroom.com/games/echofall) / [ソース](https://github.com/MaxLGDev/EchoFall.git)
-  - 2025.06、個人制作
+  - 2025、個人制作
 - **夢の響 (Dreamtide)** — [プレイ](https://unityroom.com/games/dreamtide) / [ソース](https://github.com/MaxLGDev/Dreamtide.git)
-  - 2025.06、個人制作
+  - 2025、個人制作
 - **NeoTempo** — [プレイ](https://unityroom.com/games/neotempo) / [ソース](https://github.com/MaxLGDev/NeoTempo)
-  - 2026.02、個人制作
+  - 2026、個人制作
 - **PochiPochiFarm** — 制作中 / [ソース](https://github.com/MaxLGDev/PochiPochiFarm)
-  - 2026.07、個人制作
+  - 2026、個人制作
 
 一緒に面白いゲームを作っていきましょう！
 
