@@ -25,6 +25,8 @@ I'm a student studying game development. I mainly use C# with Unity, and I work 
 
 ## 📂 Main Repositories / Portfolio
 
+Portfolio: https://maxlgdev.wixsite.com/maxlgdev-portfolioen
+
 **--- Games ---**
 
 - **LaserNexus** — [Play](https://unityroom.com/games/laser_nexus) / [Source](https://github.com/KEITOKOGA/20250522-23gamejam.git)
@@ -68,6 +70,8 @@ Let's make fun games together!
 - 💼 ゲーム業界でのキャリアスタートを目指して準備中
 
 ## 📂 主なリポジトリ / ポートフォリオ
+
+ポートフォリオ: https://maxlgdev.wixsite.com/maxlgdev-portfoliojp
 
 **--- ゲーム ---**
 
